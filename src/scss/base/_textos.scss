@@ -7,6 +7,9 @@
 .titulo-center-rojo {
     @include m.titulo(v.$rojo, 2.4rem, 4rem, center);
 }
+.titulo-center-negro {
+    @include m.titulo(v.$negro, 2.4rem, 4rem, center);
+}
 .titulo-left {
     @include m.titulo(v.$blanco, 2.4rem, 4rem, left);
 }

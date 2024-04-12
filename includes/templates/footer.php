@@ -10,7 +10,7 @@
         <div class="footer_item">
             <p><a href="#">¿Necesitas ayuda?</a></p>
             <p><a href="#">Preguntas frecuentes</a></p>
-            <p><a target="_blank" href="https://wa.me/526671726395">Contactanos</a></p>
+            <p><a target="_blank" href="/contacto.php">Contactanos</a></p>
         </div>
         <div class="footer_item">
             <p>Redes sociales</p>

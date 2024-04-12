@@ -111,7 +111,7 @@
                 <li>
                     <a href="#">Noticias</a>
                     <ul>
-                        <li><a href="#">Anuncios</a></li>
+                        <li><a href="/anuncios.php">Anuncios</a></li>
                         <li><a href="/eventos.php">Eventos</a></li>
                         <li><a href="#">Galeria</a></li>
                     </ul>
