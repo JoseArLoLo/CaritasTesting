@@ -4,6 +4,7 @@ require 'app.php';
 function incluirTemplate( string $nombre, $donar = false, $eventos = false) {
     include TEMPLATES_URL . "/$nombre.php";
 }
+//Para condiciones if de ser necesario
 function estaAutenticado() {
     session_start();
     if($_SESSION['login']) {
@@ -11,6 +12,7 @@ function estaAutenticado() {
     }
     return false;
 }
+//Para redireccionar en caso de que no exista
 function logueado() {
     session_start();
     if(!$_SESSION['login']) {

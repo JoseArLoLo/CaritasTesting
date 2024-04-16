@@ -14,8 +14,8 @@ incluirTemplate('header');
         <fieldset>
             <legend>Email y password</legend>
 
-            <label for="email">E-mail</label>
-            <input type="email" name="email" placeholder="Tu email" id="email">
+            <label for="user">usuario</label>
+            <input type="text" name="user" placeholder="Tu usuario" id="user">
 
             <label for="password">Password</label>
             <input type="password" name="password" placeholder="Tu Password" id="password">
